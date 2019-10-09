@@ -1,3 +1,2 @@
-111111
-222222
-333333
+Git is a version control system
+Git is free software
